@@ -62,5 +62,9 @@ public class Calculator {
 
 	}
 	
-	
+	public static void br1func1(int num1)
+	{
+		System.out.println(num1);
+
+	}
 }
