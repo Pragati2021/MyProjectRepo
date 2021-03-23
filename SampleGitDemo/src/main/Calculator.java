@@ -49,4 +49,10 @@ public class Calculator {
 		System.out.println(num1);
 
 	}
+	
+	public static void display(int num1)
+	{
+		System.out.println(num1);
+
+	}
 }
